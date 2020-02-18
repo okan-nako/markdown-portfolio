@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yaktocat](https://github.blog/de/wp-content/uploads/sites/3/2019/05/mona-heart-featured.png?w=2048)
